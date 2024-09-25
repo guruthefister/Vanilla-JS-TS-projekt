@@ -1,0 +1,46 @@
+{
+    "content": [
+        {
+            "header": "The Car"
+        },
+        {
+            "buttonLeft": "Back"
+        },
+        {
+            "sliderId": 1,
+            "billede": "../assets/IMG/lilla_bil1.jpg",
+            "overskrift": "dig grim",
+            "textContent": "dasdasd"
+        },
+        {
+            "sliderId": 2,
+            "billede": "../assets/IMG/lilla_bil2.jpg",
+            "overskrift": "dig grim",
+            "textContent": "dasdasd"
+        },
+        {
+            "sliderId": 3,
+            "billede": "../assets/IMG/lilla_bil3.jpg",
+            "overskrift": "dig grim",
+            "textContent": "dasdasd"
+        },
+        {
+            "sliderId": 4,
+            "billede": "../assets/IMG/lilla_bil4.jpg",
+            "overskrift": "dig grim",
+            "textContent": "dasdasd"
+        },
+        {
+            "sliderId": 5,
+            "billede": "../assets/IMG/lilla_bil5.jpg",
+            "overskrift": "dig grim",
+            "textContent": "dasdasd"
+        },
+        {
+            "buttonRight": "Next"
+        },
+        {
+            "footer": "kæft man det virker, stjæl det ikke"
+        }
+    ]
+}
